@@ -50,3 +50,9 @@
     - mistakes
     - max_lives
     - game_state
+
+# Auto Play Mode
+- The autoplayer can never suggestest a letter it has already suggested (no repeated letters)
+- My thoughts
+    - No logical thinking or has to think about what to do
+    - I think running or passing a random var will be the best option
